@@ -1,0 +1,6 @@
+owner=344131660410781697
+prefix=2$
+game=DF_Team | 2$play
+stayinchannel=true
+songinstatus=false
+token=NDgxOTYzMjM3MDc2NjMxNTYy.Dy26Bw.bq71ZfsjMpegpFAd3aFv0_M-Rpg
